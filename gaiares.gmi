@@ -1,0 +1,44 @@
+## How I lost $2,000 on a Retro Grail Shmup
+
+My dad took 14-year-old me to the Attias Flea Market (Sayville, Long Island) in the fall of 1991. I found a small stall selling Japanese import games for the Sega Mega Drive. My eyes fell on Gaiares because the box art displayed the Renovation Games logo. They made two of my favorite games, El Viento and Ernest Evans. Yes, I loved Ernest Evans.
+
+I handed over $45 cash ($104.89 in 2025) for a used, complete-in-box copy of the game and a Mega Drive-to-Genesis converter. My dad drove me home, and I ran upstairs. I plugged my RadioShack headphones into the Genesis, clicked on my CRT, inserted the beige converter and shiny black game into my Sega Genesis, and hit the power switch.
+
+```
+  _________    _______    ____  ___________
+  / ____/   |  /  _/   |  / __ \/ ____/ ___/
+ / / __/ /| |  / // /| | / /_/ / __/  \__ \ 
+/ /_/ / ___ |_/ // ___ |/ _, _/ /___ ___/ / 
+\____/_/  |_/___/_/  |_/_/ |_/_____//____/  
+                                            
+```
+
+The Yamaha YM2612 FM synthesis chip launched heroic, Wagnerian riffs into my skull. Imagine an alien church organ mixed with a fuzzy guitar effects pedal. Go to YouTube and search for "Gaiares opening theme song" to experience it.
+
+The game switched from the title screen to a cinematic cutscene, full of gothic space demons and protagonists with colorful hair and sharp uniforms. The scene laid out the context for the game.
+
+Our hero must defeat the enemy armada to save Earth. Gulfer, a faction of space pirates, wants to extract toxic waste from Earth to create Death Star-class weapons. Queen ZZ Badnusty (great name) leads Gulfer. Leezaluth, who leads the United Star Cluster Galactic Federation, tells Earth's citizens she will nuke our sun to keep the precursors from Gulfer unless we defeat them. She gives Dan Dare, the pilot, the TOZ weapons system to give humanity an edge. She also sends Princess Alexis to operate the TOZ. The intro ends with the unnamed spaceship ejecting from the space hangar right into the game.
+
+Gaiares provides novel game mechanics. You launch the TOZ with the C button, and if it hits an enemy ship, your ship steals the weapon. You can launch it several times to power up the weapon. Different enemies provide different classes of weapons: seekers, lasers, spread, and diffuse blasters.
+
+Gaiares uses AI to match the difficulty to your skill. I find the game very hard. The eight levels don’t give you a break. If you die, you lose all your weapons, and the game reduces you to a vulnerable state on par with the naked man sprite from Ghouls 'n Ghosts. I beat the game thanks to a hack of sorts: if you launch TOZ five times without a hit, you get a super blaster when you hit an enemy on the sixth launch.
+
+I love the game, and SHMUP fans love it too. Renovation made no sequel, but Limited Run Games (LRG) released an anniversary edition in 2021. Retro game snobs, hipsters, and aficionados love the game.
+
+In 2021, I discovered the hobby of collecting sealed video games. Nobody (normal) saved sealed video games in the 1990s. Once Japan launched a new console, gamers shunned the previous generation. I remember, for example, trading about $10 worth of fireworks for three Nintendo games (Mega Man, Pro Wrestling and Jackal). Organic collectability and rarity drive the sealed video game hobby. I find it a fun hobby and consider it a good investment.
+
+Heritage Auctions announced they would sell a high-grade (tied for highest numerical grade) copy of Gaiares at their October 13th Ages of Sega Showcase Auction (2022). HA offered a 9.6 A+ Gaiares with pedigree in their auction. Some (now-rich) person in Plattsburgh discovered a trove of sealed video games at an old video store, and HA dubbed the collection "The Plattsburgh Collection."
+
+Back then, I had some fun money to burn (I bought Ethereum at $300), so I decided to bid. I set my limit at $3,000. I figured the combination of Genesis nostalgia, the Renovation fanbase, the SHMUP fanbase, the fact that Renovation never released it on another platform, and the Plattsburgh pedigree warranted that price.
+
+I had never bid in a Heritage Auction before and admit with shame that I "slowl bid" the price up until I won. I got the game for a steal (in my mind). I won with a hammer price of $2,000. Heritage added 20% for buyer’s premium, $145.95 for tax, and $32.58 for shipping and handling. All in, I spent $2,578.53 dollars ($2775.44 in 2025).
+
+Since 2023, the sealed video game market collapsed, and the hobby did not see any further further Gaiares sales for years. WATA’s grading notes only three copies of Gaiares on the population report: one lower than mine and one (non-pedigree) copy of a slightly higher grade. I bought the 9.6 A+ box, and another collector owns a 9.8 A++ sealed copy. Yes, just one extra plus.
+
+In October 2024, this collector decided to sell their high-grade copy. I knew the hobby had tanked, but I expected a sale of just under $2,000. Again, (wealthy) SHMUP, Renovation, Genesis, and retro gamer fans all love Gaiares.
+
+The item sold (with BP) at just $656.25. I lost close to $2k, at least on paper.
+
+The sale price disappoints me, but I focus on the positive. I own one of just three sealed, graded copies on the WATA population report. I also own the only pedigree copy. I suspect the economy will improve, putting more fun money in the pockets of rich nerds who will drive the price up to a reasonable value.
+
+In conclusion, if you haven’t played Gaiares, I recommend going on eBay and buying a loose cart or the LRG reissue and giving it a test flight.
